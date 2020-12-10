@@ -1,5 +1,5 @@
 # Cricket-Prediction
-In this project I have developed a cricket score predicting using machine learning algorithm here, I took IPL dataset from websites
+In this project I have developed a cricket score predictor using machine learning algorithm here, I took IPL dataset from kaggle
 
 In cricket_EDA.py code you can see the data visualization part and here what I had done is firstly, i imported data from my desktop and then i did some preprocessing like
 imputing missing values and removing unwanted features and plotted graphs using different plots like bar plot, Histogram and Scatter plot.
