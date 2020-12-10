@@ -42,10 +42,6 @@ Matches['city'].fillna(Matches['city'].mode()[0],inplace=True)
 ASR.isna().sum()
 ASR['average'].fillna(ASR['average'].median(),inplace=True)
 
-teamwise_home_away.replace(np.NaN,-99999,inplace=True)
-Matches.replace(np.NaN,-99999,inplace=True)
-Deliveries.replace(np.NaN,-99999,inplace=True)
-
 Deliveries.isna().sum()
 len(Deliveries)
 Deliveries.dropna(axis=1,inplace=True)
