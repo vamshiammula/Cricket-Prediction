@@ -14,7 +14,9 @@ machine learning algorithm to train the model i trainned my model using training
 
 Tools used for project development
 -> Spyder 
+
 Language used:- Python and version 3.9.0
+
 Packages used
 1. Numpy
 2. Pandas
