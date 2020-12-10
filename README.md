@@ -13,8 +13,10 @@ and removed unconsistent teams after that i did label encoding to convert catego
 machine learning algorithm to train the model i trainned my model using training dataset and tested my model using test dataset i got good results
 
 Tools used for project development
-1. Python 3.9.0
-2. Numpy
-3. Pandas
-4. matplotlib
-5. sklearn
+-> Spyder 
+Language used:- Python and version 3.9.0
+Packages used
+1. Numpy
+2. Pandas
+3. matplotlib
+4. sklearn
